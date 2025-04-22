@@ -7,38 +7,26 @@
         <mxCell id="Ts_Y4ox_HaVL5t4j062z-1" value="Beneficiarios&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ts_Y4ox_HaVL5t4j062z-2" value="Revision" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Ts_Y4ox_HaVL5t4j062z-2" value="Informe_Social" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ts_Y4ox_HaVL5t4j062z-3" value="Funcionario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEqsIer7QCuG16tFE1A--1" value="Desarrollo social&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEqsIer7QCuG16tFE1A--2" value="Alcalde&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEqsIer7QCuG16tFE1A--3" value="Jefe Desarrollo Social" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEqsIer7QCuG16tFE1A--4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEqsIer7QCuG16tFE1A--5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEqsIer7QCuG16tFE1A--6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="490" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEqsIer7QCuG16tFE1A--7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEqsIer7QCuG16tFE1A--8" value="Solicitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZEqsIer7QCuG16tFE1A--9" value="Informe_Social" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="ZEqsIer7QCuG16tFE1A--9" value="Solciidtud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
